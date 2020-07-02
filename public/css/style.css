@@ -1,0 +1,156 @@
+.noLinks{
+    text-decoration: none;
+    color: black;
+}
+
+.noLinks:visited{
+    color: black;
+}
+
+.noLinks:hover{
+    color: black;
+   text-decoration: none;
+}
+
+
+
+form .avatar{
+    display: block;
+    margin-left: 40%;
+    width: 75px;
+    height: 75px;
+    border-radius: 900px;
+}
+
+.navbar .container-avatar img, .pub_image .container-avatar img{
+    width: 35px;
+    height: 35px;
+    border-radius: 900px;
+    overflow: hidden;
+
+}
+
+.navbar .container-avatar,
+.pub_image .container-avatar{
+    margin-left: 10px;
+}
+
+.pub_image .container-avatar{
+    float: left;
+    margin-right: 10px;
+}
+
+.pub_image .data-user{
+    font-weight: bold;
+    line-height: 35px;
+}
+
+.image-container{
+    width: 100%;
+    max-height: 400px;
+    overflow: hidden;
+}
+
+.image-detail{
+    max-height: 500px;
+}
+
+.image-container img{
+    width: 100%;
+}
+
+.pub_image .card-body{
+    padding: 0px;
+}
+
+.pub_image .description{
+padding: 0 20px;
+
+}
+
+.pub_image .description p{
+    padding: 0;
+}
+
+
+
+.container{
+    margin: 10px 0px;
+}
+
+.pub_image .btn-comments{
+    margin: 20px;
+    margin-top: 0;
+}
+
+.pub_image{
+    margin-bottom: 10px;
+}
+
+
+.likes{
+    padding: 5px 20px;
+}
+
+.likes img{
+    width: 30px;
+}
+
+.card-body .comments{
+    padding: 0 20px;
+}
+
+.date{
+    padding: 0 20px;
+    padding-bottom: 10px;
+
+}
+
+.comment .parrafo{
+    font-size: 8px;
+    font-weight: 200;
+}
+
+.profile-user{
+    height: 200px;
+   margin-bottom: 50px ;
+
+}
+
+.profile-user .container-avatar-profile{
+    width: 200px;
+    height: 200px;
+    border-radius: 900px;
+    overflow: hidden;
+    float: left;
+}
+
+.miniatura{
+    border-radius: none;
+    height: 150px;
+    margin-bottom: 20px;
+}
+
+.profile-user .container-avatar-profile img{
+    height: 100%;
+}
+
+.profile-user .user-info{
+    float: left;
+    padding-left: 50px;
+    padding-top: 50px;
+}
+
+.nickContain{
+    display: flex;
+}
+
+
+.data-user{
+    width: 80%;
+}
+
+.actions{
+    width: 20%;
+}
+  
